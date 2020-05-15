@@ -1,0 +1,10 @@
+# make sure to put a space (or a tab) between "STAGES=" and the number here.
+STAGES=	3
+
+# Empty rows will be ignored.
+
+# stage	C	        R
+1       1.00E-06	5.00E-02
+2	1.10E-03	7.00E-01
+3	1.20E-00	4.00E-00
+
